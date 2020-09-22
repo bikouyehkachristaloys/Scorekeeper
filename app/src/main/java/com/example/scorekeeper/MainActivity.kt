@@ -1,8 +1,8 @@
-package com.example.android.scorekeeper
+package com.example.android.scorekeeper.MainActivity
 
-import androidx.appcompat.app.AppCompatActivity
-import android.os.Bundle
 import com.example.scorekeeper.R
+import android.os.Bundle
+import androidx.appcompat.app.AppCompatActivity
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
